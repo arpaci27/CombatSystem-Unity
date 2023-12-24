@@ -1,4 +1,4 @@
-#Unity Combat System Project
+Unity Combat System Project
 About the Project
 This project is a comprehensive combat system developed using Unity Game Engine, showcasing advanced features and mechanics for an immersive third-person gaming experience. Key components include a free-look camera system, a third-person player movement controller, and a fully functional combat system with detailed animations and responsive controls.
 
