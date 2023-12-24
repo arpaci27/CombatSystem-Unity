@@ -16,4 +16,4 @@ Swordplay Mechanics: Realistic hitting and sword-fighting animations, giving a g
 Damage and Health System: Detailed system for tracking damage and player health.
 Death Animations with Ragdolls: Utilizes ragdoll physics for realistic death animations, enhancing the visual realism.
 ### A short gameplay video;
-[Watch the gameplay]([URL](https://www.youtube.com/watch?v=xlXWDQzytYs)https://www.youtube.com/watch?v=xlXWDQzytYs)
+[Watch the gameplay]([https://www.youtube.com/watch?v=xlXWDQzytYs])
